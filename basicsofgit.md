@@ -9,9 +9,14 @@ Since Git is software, you can install it on your local machine.
 GitHub, on the other hand, is a web-based platform for hosting Git repositories. It allows developers to store, share, and collaborate on code projects. While GitHub is one of the most popular hosting services for Git repositories, it is not the only one—other platforms like GitLab and Bitbucket also offer similar functionality.
 
 **Why Should You Learn Git?**
+
+
 Even if you’re not a programmer, Git can help in:
+
 ✅ Tracking changes in reports, documents, and code.
+
 ✅ Collaborating with others without losing previous versions.
+
 ✅ Undoing mistakes by rolling back to an earlier version.
 
 
